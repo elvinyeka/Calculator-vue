@@ -1,4 +1,6 @@
-# vue-calculator
+# Demo [simple-calculator-vue](https://simple-calculator-vue.netlify.app/)
+
+
 
 ## Project setup
 ```
